@@ -66,7 +66,7 @@ Este projeto utiliza a placa BitDogLab com os seguintes componentes:
 - **Organização do Código:** Código estruturado e comentado.
 - **Uso da UART:** Para transmissão de dados de mensagens de depuração.
 - **Leitura analógica:** Via ADC.
-- 
+
 ## 📂 Estrutura do Repositório
 ```
 ├── Atividade_1_fase_2.c             # Código principal do projeto
